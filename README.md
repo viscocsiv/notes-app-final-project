@@ -1,11 +1,3 @@
-# How to run the scripts
+# Notes App
 
-## For Development
-```
-npm run start-dev
-```
-
-## For Production
-```
-npm run build
-```
+This project is only for learning purposes, i created this project for my final submission while i learn front end development at Dicoding academy.
