@@ -1,4 +1,11 @@
-#How to run the scripts
+# How to run the scripts
 
-run npm start-dev to start developing
+## For Development
+```
+npm start-dev to start developing
+```
+
+## For Production
+````
 run npm build to start production
+```
