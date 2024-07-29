@@ -2,10 +2,10 @@
 
 ## For Development
 ```
-npm start-dev to start developing
+npm run start-dev
 ```
 
 ## For Production
 ```
-run npm build to start production
+npm run build
 ```
